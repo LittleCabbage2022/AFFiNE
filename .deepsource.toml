@@ -12,14 +12,4 @@ name = "javascript"
     "react",
     "angular"
   ]
-  environment = [
-    "nodejs",
-    "jquery",
-    "mongo",
-    "browser",
-    "jest",
-    "cypress",
-    "vitest",
-    "mocha",
-    "jasmine"
-  ]
+  environment = ["nodejs"]
